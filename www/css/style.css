@@ -3415,45 +3415,51 @@ a.blog-item-more:hover{
 
 .download {
 
+	background-image: url(../works/educationworks.jpg);
+	background-size: 100%;
+	position:relative;
+ 	
+	width: 50%;
+	padding-bottom:0;
+	text-align:center;
 	height:100%;
 	float: right;
 	color: #ffffff;
-	background: #fff;
-	width: 50%;
 	
-	padding-bottom: 60px;
-	text-align:center;
 }
 
 
 .iphone-video {
 	position:absolute;
 		top:395px;
-		right:-4%;
 
-		-webkit-transform: translateY(-50%);
-		-moz-transform: translateY(-50%);
-		-ms-transform: translateY(-50%);
-		-o-transform: translateY(-50%);
-		transform: translateY(-50%);
+		left:40%;
+    	margin-left:-25px;
+
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
 
 
-		-webkit-transition: all .4s ease-in;
-		-moz-transition: all .4s ease-in;
-		-ms-transition: all .4s ease-in;
-		-o-transition: all .4s ease-in;
-		transition: all .4s ease-in;
-	}
+	-webkit-transition: all .4s ease-in;
+	-moz-transition: all .4s ease-in;
+	-ms-transition: all .4s ease-in;
+	-o-transition: all .4s ease-in;
+	transition: all .4s ease-in;
+}
 
 
 
 
 video.promo {
-		position: relative;
-
-		top:198px;
-		left:-240px;
-		width: 220px;
+		position: absolute;
+		
+		top:87px;
+		width: 240px;
+		left:17%;
+    	margin-left:-25px;
 	}
 
 
@@ -3474,10 +3480,11 @@ video.promo {
 
 
 
-IMG.displayed {
-	position:relative;
-    
-}
+
+
+
+
+
 
 
 
