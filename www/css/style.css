@@ -3428,6 +3428,21 @@ a.blog-item-more:hover{
 	
 }
 
+.download1 {
+
+	background-image: url(../works/worksbackground2.jpg);
+	background-size: 100%;
+	position:relative;
+ 	
+	width: 50%;
+	padding-bottom:0;
+	text-align:center;
+	height:100%;
+	float: right;
+	color: #ffffff;
+	
+}
+
 
 .iphone-video {
 	position:absolute;
