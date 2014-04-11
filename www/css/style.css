@@ -1847,7 +1847,7 @@ a.logo.dark:hover{
 .work-item{
 	width: 33%;
 	display: inline-block;
-	
+
 	margin: 0;
 	position: relative;
 	-moz-box-sizing: border-box;
@@ -2457,6 +2457,10 @@ a.logo.dark:hover{
 }
 .phone-number{
 	font-size: 40px;
+}
+
+.phone-number a {
+  color:#000000;
 }
 
 
