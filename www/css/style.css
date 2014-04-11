@@ -3504,6 +3504,23 @@ a.blog-item-more:hover{
 
 }
 
+.sales {
+
+	background-image: url(../works/salesbackground.jpg);
+	background-size: 100%;
+
+	position:relative;
+
+	width: 50%;
+	padding-bottom:0;
+	text-align:center;
+	height:100%;
+	min-height: 750px;
+	float: right;
+	color: #ffffff;
+
+}
+
 
 .iphone-video {
 	position:absolute;
