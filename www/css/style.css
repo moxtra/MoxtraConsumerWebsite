@@ -1845,9 +1845,9 @@ a.logo.dark:hover{
 	padding: 0;
 }
 .work-item{
-	width: 25%;
+	width: 33%;
 	display: inline-block;
-	float: left;
+	
 	margin: 0;
 	position: relative;
 	-moz-box-sizing: border-box;
