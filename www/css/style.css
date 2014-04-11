@@ -3469,6 +3469,18 @@ a.blog-item-more:hover{
 
 }
 
+.info-text-bottom {
+	margin-left:50px;
+	margin-right:50px;
+	font-size: 15px;
+	font-weight: normal;
+	text-transform: none;
+	line-height: 1.7;
+	letter-spacing: 1px;
+
+}
+
+
 
 .education {
 
@@ -3573,7 +3585,7 @@ video.promo {
 
 
 /* ==============================
-   Features
+   Features Test
    ============================== */
 
 .features-title{
@@ -3614,6 +3626,17 @@ video.promo {
 }
 
 
+/* ==============================
+   Works Page
+   ============================== */
+
+.works-icon{
+	font-size: 24px;
+	font-weight: normal;
+	letter-spacing: normal;
+	text-transform: none;
+	color: #e54028;
+}
 
 
 
