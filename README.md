@@ -1,4 +1,4 @@
-MoxtraConsumerWebsite
+ConsumerWebsite
 =====================
 
-Moxtra Consumer Website
+Consumer Website
